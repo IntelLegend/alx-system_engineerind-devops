@@ -1,1 +1,1 @@
-Shell scripting practicals
+Shell scrpting practicals
